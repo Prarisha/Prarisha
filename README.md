@@ -30,8 +30,7 @@ I'm a web developer with a strong foundation in multiple programming languages a
 Coming soon! I'm actively working on exciting projects that will showcase my web development skills. Stay tuned! 🚀
 
 ### Portfolio Website
-My first major project — a personal portfolio to showcase my skills, projects, and journey as a web developer. **Currently in development** 🎨
-
+https://prarisha.github.io/my-portfolio/
 ---
 
 ## 📊 GitHub Stats
